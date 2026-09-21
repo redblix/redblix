@@ -13,7 +13,7 @@ Backend .NET Developer focused on building maintainable and scalable web applica
 
 ### Lintora
 
-Lintora is a persian static code analysis platform designed to help developers analyze their projects, identify code issues, and improve code quality through a simple and user friendly experience.
+Lintora is a Persian static code analysis platform designed to help developers analyze their projects, identify code issues, and improve code quality through a simple and user-friendly experience.
 
 <p align="center">
   <a href="https://lintora.ir">
