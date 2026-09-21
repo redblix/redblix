@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sina 👋
 
-<!--
-**redblix/redblix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend .NET Developer focused on building maintainable and scalable web applications with ASP.NET Core.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,postgres,rabbitmq,azure,github,git,visualstudio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" />
+</p>
+
+## 🚀 Featured Project
+
+### Lintora
+
+Lintora is a static code analysis platform designed to help developers analyze their projects, identify code issues, and improve code quality through a simple and developer-friendly experience.
+
+<p align="center">
+  <img src="./1.png" width="200" alt="Lintora" />
+</p>
