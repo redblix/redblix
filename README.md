@@ -6,7 +6,7 @@ Backend .NET Developer focused on building maintainable and scalable web applica
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,postgres,rabbitmq,azure,github,git,visualstudio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" />
+  <img src="https://skills.syvixor.com/api/icons?i=sqlserver" height="48" alt="SQL Server" />
 </p>
 
 ## 🚀 Featured Project
@@ -17,8 +17,6 @@ Lintora is a Persian static code analysis platform designed to help developers a
 
 <p align="center">
   <a href="https://lintora.ir">
-    <img src="./lintora_logo.png" width="180" alt="Lintora" />
+    <img src="./lintora_logo.png" width="160" alt="Lintora" />
   </a>
-  <br>
-  <sub>🔗 Visit Lintora</sub>
 </p>
