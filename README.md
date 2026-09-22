@@ -6,7 +6,6 @@ Backend .NET Developer focused on building maintainable and scalable web applica
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,postgres,rabbitmq,azure,github,git,visualstudio" />
-  <img src="https://skills.syvixor.com/api/icons?i=sqlserver" height="48" alt="SQL Server" />
 </p>
 
 ## 🚀 Featured Project
